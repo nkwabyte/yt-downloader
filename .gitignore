@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.python-version
+
+# uv
+.uv/
+
+# Downloaded media files
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.mp3
+*.part
+*.ytdl
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
